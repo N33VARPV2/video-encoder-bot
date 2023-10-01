@@ -3,4 +3,4 @@ TgCrypto
 python-dotenv
 hachoir
 ffmpeg-python
-node-version==14.7.5
+node-version==14.17.5
